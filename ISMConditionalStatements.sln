@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormTask", "WinFormTask\WinFormTask.csproj", "{D24F90F9-FD2E-4CF1-B70F-6AF1244501BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinConsoleTask", "WinConsoleTask\WinConsoleTask.csproj", "{C8FD1F89-461C-4F56-8534-BA3DDF5B8357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D24F90F9-FD2E-4CF1-B70F-6AF1244501BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24F90F9-FD2E-4CF1-B70F-6AF1244501BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24F90F9-FD2E-4CF1-B70F-6AF1244501BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24F90F9-FD2E-4CF1-B70F-6AF1244501BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8FD1F89-461C-4F56-8534-BA3DDF5B8357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FD1F89-461C-4F56-8534-BA3DDF5B8357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FD1F89-461C-4F56-8534-BA3DDF5B8357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FD1F89-461C-4F56-8534-BA3DDF5B8357}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE959168-E43B-4606-9F76-93AF1A36245B}
+	EndGlobalSection
+EndGlobal

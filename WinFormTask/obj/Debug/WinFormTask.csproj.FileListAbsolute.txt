@@ -1,0 +1,10 @@
+D:\Програмирование\вижуалка\ISMConditionalStatements\WinFormTask\bin\Debug\WinFormTask.exe.config
+D:\Програмирование\вижуалка\ISMConditionalStatements\WinFormTask\bin\Debug\WinFormTask.exe
+D:\Програмирование\вижуалка\ISMConditionalStatements\WinFormTask\bin\Debug\WinFormTask.pdb
+D:\Програмирование\вижуалка\ISMConditionalStatements\WinFormTask\obj\Debug\WinFormTask.csprojAssemblyReference.cache
+D:\Програмирование\вижуалка\ISMConditionalStatements\WinFormTask\obj\Debug\WinFormTask.Form1.resources
+D:\Програмирование\вижуалка\ISMConditionalStatements\WinFormTask\obj\Debug\WinFormTask.Properties.Resources.resources
+D:\Програмирование\вижуалка\ISMConditionalStatements\WinFormTask\obj\Debug\WinFormTask.csproj.GenerateResource.cache
+D:\Програмирование\вижуалка\ISMConditionalStatements\WinFormTask\obj\Debug\WinFormTask.csproj.CoreCompileInputs.cache
+D:\Програмирование\вижуалка\ISMConditionalStatements\WinFormTask\obj\Debug\WinFormTask.exe
+D:\Програмирование\вижуалка\ISMConditionalStatements\WinFormTask\obj\Debug\WinFormTask.pdb

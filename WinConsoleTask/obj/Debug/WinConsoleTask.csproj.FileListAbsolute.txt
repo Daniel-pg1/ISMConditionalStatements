@@ -1,0 +1,7 @@
+D:\Програмирование\вижуалка\ISMConditionalStatements\WinConsoleTask\bin\Debug\WinConsoleTask.exe.config
+D:\Програмирование\вижуалка\ISMConditionalStatements\WinConsoleTask\bin\Debug\WinConsoleTask.exe
+D:\Програмирование\вижуалка\ISMConditionalStatements\WinConsoleTask\bin\Debug\WinConsoleTask.pdb
+D:\Програмирование\вижуалка\ISMConditionalStatements\WinConsoleTask\obj\Debug\WinConsoleTask.csprojAssemblyReference.cache
+D:\Програмирование\вижуалка\ISMConditionalStatements\WinConsoleTask\obj\Debug\WinConsoleTask.csproj.CoreCompileInputs.cache
+D:\Програмирование\вижуалка\ISMConditionalStatements\WinConsoleTask\obj\Debug\WinConsoleTask.exe
+D:\Програмирование\вижуалка\ISMConditionalStatements\WinConsoleTask\obj\Debug\WinConsoleTask.pdb
