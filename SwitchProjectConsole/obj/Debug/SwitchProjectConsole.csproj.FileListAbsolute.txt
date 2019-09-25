@@ -1,0 +1,7 @@
+D:\Програмирование\вижуалка\ISMConditionalStatements\SwitchProjectConsole\bin\Debug\SwitchProjectConsole.exe.config
+D:\Програмирование\вижуалка\ISMConditionalStatements\SwitchProjectConsole\bin\Debug\SwitchProjectConsole.exe
+D:\Програмирование\вижуалка\ISMConditionalStatements\SwitchProjectConsole\bin\Debug\SwitchProjectConsole.pdb
+D:\Програмирование\вижуалка\ISMConditionalStatements\SwitchProjectConsole\obj\Debug\SwitchProjectConsole.csproj.CoreCompileInputs.cache
+D:\Програмирование\вижуалка\ISMConditionalStatements\SwitchProjectConsole\obj\Debug\SwitchProjectConsole.exe
+D:\Програмирование\вижуалка\ISMConditionalStatements\SwitchProjectConsole\obj\Debug\SwitchProjectConsole.pdb
+D:\Програмирование\вижуалка\ISMConditionalStatements\SwitchProjectConsole\obj\Debug\SwitchProjectConsole.csprojAssemblyReference.cache
