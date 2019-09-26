@@ -1,0 +1,6 @@
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\DoWhileConsole1\bin\Debug\DoWhileConsole1.exe.config
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\DoWhileConsole1\bin\Debug\DoWhileConsole1.exe
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\DoWhileConsole1\bin\Debug\DoWhileConsole1.pdb
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\DoWhileConsole1\obj\Debug\DoWhileConsole1.csproj.CoreCompileInputs.cache
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\DoWhileConsole1\obj\Debug\DoWhileConsole1.exe
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\DoWhileConsole1\obj\Debug\DoWhileConsole1.pdb

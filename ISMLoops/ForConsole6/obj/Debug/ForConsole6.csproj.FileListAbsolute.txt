@@ -1,0 +1,7 @@
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\ForConsole6\bin\Debug\ForConsole6.exe.config
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\ForConsole6\bin\Debug\ForConsole6.exe
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\ForConsole6\bin\Debug\ForConsole6.pdb
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\ForConsole6\obj\Debug\ForConsole6.csprojAssemblyReference.cache
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\ForConsole6\obj\Debug\ForConsole6.csproj.CoreCompileInputs.cache
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\ForConsole6\obj\Debug\ForConsole6.exe
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\ForConsole6\obj\Debug\ForConsole6.pdb

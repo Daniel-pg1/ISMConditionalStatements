@@ -1,0 +1,7 @@
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\PiConsole\bin\Debug\PiConsole.exe.config
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\PiConsole\bin\Debug\PiConsole.exe
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\PiConsole\bin\Debug\PiConsole.pdb
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\PiConsole\obj\Debug\PiConsole.csprojAssemblyReference.cache
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\PiConsole\obj\Debug\PiConsole.csproj.CoreCompileInputs.cache
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\PiConsole\obj\Debug\PiConsole.exe
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\PiConsole\obj\Debug\PiConsole.pdb

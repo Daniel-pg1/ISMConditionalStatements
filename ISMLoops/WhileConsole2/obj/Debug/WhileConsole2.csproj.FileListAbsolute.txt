@@ -1,0 +1,7 @@
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\WhileConsole2\bin\Debug\WhileConsole2.exe.config
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\WhileConsole2\bin\Debug\WhileConsole2.exe
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\WhileConsole2\bin\Debug\WhileConsole2.pdb
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\WhileConsole2\obj\Debug\WhileConsole2.csprojAssemblyReference.cache
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\WhileConsole2\obj\Debug\WhileConsole2.csproj.CoreCompileInputs.cache
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\WhileConsole2\obj\Debug\WhileConsole2.exe
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\WhileConsole2\obj\Debug\WhileConsole2.pdb

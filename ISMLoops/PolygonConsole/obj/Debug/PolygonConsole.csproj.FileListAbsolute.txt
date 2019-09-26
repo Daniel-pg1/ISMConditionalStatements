@@ -1,0 +1,7 @@
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\PolygonConsole\bin\Debug\PolygonConsole.exe.config
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\PolygonConsole\bin\Debug\PolygonConsole.exe
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\PolygonConsole\bin\Debug\PolygonConsole.pdb
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\PolygonConsole\obj\Debug\PolygonConsole.csprojAssemblyReference.cache
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\PolygonConsole\obj\Debug\PolygonConsole.csproj.CoreCompileInputs.cache
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\PolygonConsole\obj\Debug\PolygonConsole.exe
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\PolygonConsole\obj\Debug\PolygonConsole.pdb

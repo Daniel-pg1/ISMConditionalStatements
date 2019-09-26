@@ -1,0 +1,6 @@
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\TriangleConsole\bin\Debug\TriangleConsole.exe.config
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\TriangleConsole\bin\Debug\TriangleConsole.exe
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\TriangleConsole\bin\Debug\TriangleConsole.pdb
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\TriangleConsole\obj\Debug\TriangleConsole.csproj.CoreCompileInputs.cache
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\TriangleConsole\obj\Debug\TriangleConsole.exe
+D:\Програмирование\вижуалка\ISMConditionalStatements\ISMLoops\TriangleConsole\obj\Debug\TriangleConsole.pdb
